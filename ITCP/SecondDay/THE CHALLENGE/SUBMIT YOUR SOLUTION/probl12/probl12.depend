@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672051620 source:c:\users\pc\desktop\tp\probl12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

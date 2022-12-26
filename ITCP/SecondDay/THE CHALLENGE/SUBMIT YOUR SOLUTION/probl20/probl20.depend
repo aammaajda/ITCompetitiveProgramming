@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672056237 source:c:\users\pc\desktop\tp\probl20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
